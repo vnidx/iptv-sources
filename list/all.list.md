@@ -723,7 +723,7 @@
 | 717 | [HD]fox business | epg.pw | <https://epg.pw/stream/704b59f653ed37aeb4dae28c623a2b715b28968024ace165e0f79ad1d1ba4cd2.m3u8> |
 | 718 | [BD]fox life hd | epg.pw | <https://epg.pw/stream/22b00a7e5950924ebf08dab1e269e84f012f2a85ae16aef4b5e29c56aad98707.ctv> |
 | 719 | [HD]fox news | epg.pw | <https://epg.pw/stream/274442e7ccca40f71ae9d93f07afb8599b202f7268d314d9e365c5cd320e2bac.m3u8> |
-| 720 | [VGA]fox news channel | epg.pw | <https://epg.pw/stream/5d82eec6d748f9e54f102f0cda6670eebd42145263e36c1d706f4367e4b7cc7d.m3u8> |
+| 720 | [VGA]fox news channel | epg.pw | <https://epg.pw/stream/3c698bb765a69e81704677f8435df022f8623277d8907afe7f31f27c6dd0162f.m3u8> |
 | 721 | [VGA]fox sports 3 | epg.pw | <https://epg.pw/stream/76fc852dc2521bb29213ca699b1161e2386c34078c8935ceff22826c00c14e52.m3u8> |
 | 722 | [BD]fox türkiye (720p) | epg.pw | <https://epg.pw/stream/3e2f7099a6cd9a6ea59306d70fb7b2c0a394084a84f5d026c7d0db8957071a10.m3u8> |
 | 723 | [HD]fox weather (720p) | epg.pw | <https://epg.pw/stream/495575ab6776a513fe2e52a9e97c1b4eb5530350ad8d6fcc71501cae1b46de5b.m3u8> |
@@ -1751,4 +1751,4 @@
 | 1745 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1746 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Mon Feb 19 2024 00:41:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 19 2024 02:17:04 GMT+0000 (Coordinated Universal Time)**
