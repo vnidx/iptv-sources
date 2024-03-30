@@ -2414,7 +2414,7 @@ Test,#genre#
 [BD]cctv-8,https://epg.pw/stream/c01bd69b88bcceb0951a2d9bec5fed2f29627c4e4316c91781d8804db491a4ec.m3u8
 [BD]cctv怀旧剧场,https://epg.pw/stream/dddd811534ab46713b3fc0ee6aac6faf769003bb014a3a391e5c4bb0f6516de3.ctv
 [BD]cctv第一剧场[ipv6],https://epg.pw/stream/ba55b8e8aea7622044ad6925d44966b26283edbe03be0646f351292a22e1027c.m3u8
-[BD]chc动作电影,https://epg.pw/stream/c13529e9e64a4d3750b7022d02338b80f45793d4dbd359400320206cae4c0e0d.m3u8
+[BD]chc动作电影[ipv6],https://epg.pw/stream/7eba1db6cba9bf3607501ff6d1077081242393c056645b2ce312ba354cd5d250.m3u8
 [BD]chc家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
 [BD]chc高清电影[ipv6],https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8
 [BD]newtv海外剧场[ipv6],https://epg.pw/stream/05e222355206698d11ab0e237cce2cc951137cf30d5d9fa0a5836144301a9938.m3u8
@@ -2473,7 +2473,6 @@ Test,#genre#
 [SD]cgtn français (576p) [not 24/7],https://epg.pw/stream/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8
 [SD]cgtn русский,https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f79a32d0.m3u8
 [BD]lntv 1,https://epg.pw/stream/e9915400da6af7bc965753e303a49dccd7146a5b098c0c284287af30dec117f3.m3u8
-[BD]上海ics[ipv6],https://epg.pw/stream/c53a2faa40432d7b8b4b068b1e3da5016ca768345e059b37c1c90e57756760c0.m3u8
 [BD]上海都市[ipv6],https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8
 [SD]中央新影_老故事,https://epg.pw/stream/db9caef44e8ec3b20f82b56847a18d5d44b63bb8e78b6fd19959a0ad39e1d9b1.m3u8
 [HD]佛山综合,https://epg.pw/stream/e9a89f7684350b8f6687afd89086dfca86b2fb4cdb57afeb0c9d3b7f0f0ba07e.ctv
@@ -6394,7 +6393,7 @@ Halom TV (576p),http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8
 Hamaika Telebista (1080p),https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 Hamburg 1 (1080p),https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
 Handystar (404p) [Not 24/7],https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
-Hang Meas HDTV (1080p),http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+Hang Meas HDTV (1080p),http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 HanoiTV1 (1080p),https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/playlist.m3u8
 HanoiTV2 (1080p),https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/playlist.m3u8
 Hare Krsna TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCZ8S3qwowiFztAQBRTawWfA.m3u8
@@ -12045,6 +12044,7 @@ CBeebies Asia (720p),http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E79
 CBeebies HD (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 Chinola TV (480p),https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8
 Clan TVE (1080p),https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+Clan TVE Internacional (1080p),https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 Cocoro (1080p),https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 Cúla4 (1080p),https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 Discovery Kids FreeLive Brazil (720p),https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
@@ -13310,6 +13310,7 @@ Alan Becker TV,https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
 Animax (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 Anime TV (360p) [Not 24/7],https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 Anime Zone TV (480p),http://animezonetv.net/hls/stream.m3u8
+AT-X (720p),https://neetball.net/live/neet3.m3u8
 CONtv Anime (1080p),https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 DreikoTv (720p) [Not 24/7],https://cloudvideo.servers10.com:8081/8138/index.m3u8
 EnerGeek (720p) [Not 24/7],https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
